@@ -25,7 +25,7 @@ This project consists of using hashing tools. Hashing is a fundamental technique
 
 <p align="center">
 Launch the utility creating a file: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/ayronnollanv-sys/Hashing/blob/7c14ced7b97d95aa8e9ea7dae316ed69812bebdf/hashing%20lab%201.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
