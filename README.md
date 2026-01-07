@@ -28,8 +28,8 @@ Launch the utility creating a file: <br/>
 <img src="https://github.com/ayronnollanv-sys/Hashing/blob/7c14ced7b97d95aa8e9ea7dae316ed69812bebdf/hashing%20lab%201.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Txt file hashed with Sigcheck:  <br/>
+<img src="https://github.com/ayronnollanv-sys/Hashing/blob/d00120579b78285abe8d920edc3d6c304dc29a54/hashing%20lab%202.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Enter the number of passes: <br/>
